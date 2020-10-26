@@ -1,0 +1,63 @@
+section {
+  width: 100%;
+  height: 100%;
+  background: #f1f2f6;
+}
+.box {
+  width: 1200px;
+  overflow: hidden;
+  background-color: #fff;
+  margin: 0 auto;
+}
+.inner {
+  width: 100%;
+  background-color: #ece4d9;
+  height: 120px;
+}
+.inputbox {
+  width: 378px;
+  margin: 0 auto;
+  padding: 150px 0 400px 0;
+}
+.int1,
+.input1 {
+  outline: none;
+  border: 1px solid #c2c4c6;
+  border-radius: 4px;
+  width: 360px;
+  line-height: 46px;
+  color: #1c1f26;
+  font-size: 14px;
+  padding-left: 15px;
+  margin-bottom: 20px;
+}
+.input1 {
+  width: 233px;
+  float: left;
+}
+.inputbox1 > img {
+  width: 116px;
+  height: 46px;
+  float: right;
+  border-radius: 4px;
+}
+.sign {
+  width: 198px;
+  display: block;
+  text-align: center;
+  line-height: 46px;
+  font-size: 18px;
+  color: #fff;
+  background: #f5c26b;
+  border-radius: 4px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  margin: 40px 0 0 90px;
+}
+.tip {
+  font-size: 14px;
+  color: #dd2424;
+  text-align: center;
+  height: 19px;
+}
